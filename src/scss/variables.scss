@@ -1,0 +1,21 @@
+$pink: pink;
+
+//reset defaults
+
+html, body, h1 {
+    margin: 0;
+    padding: 0;
+}
+input, textarea, select {
+    margin: 8px;
+    padding: 4px;
+    font-size: 16px;
+}
+button {
+    padding: 12px;
+    background-color: #555;
+    color: white;
+    border-radius: 4px;
+    border: 0;
+    font-size: 16px;
+}
